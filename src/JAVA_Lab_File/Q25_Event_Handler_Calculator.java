@@ -1,4 +1,4 @@
-//Q25. WAP to design a working calculator using event handling.
+ WAP to design a working calculator using event handling.
 package JAVA_Lab_File;
 import java.awt.*;
 import java.awt.event.*;
